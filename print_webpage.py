@@ -20,12 +20,12 @@ for key in data.keys():
 	# print('```s h\n')
 	print( '	- Supervisor:', data[key]['Sup'],'\n')
 
-	print('		- Projects:')
-	print(data[key]['LoPr'],'\n\n')
+	print('	- Projects:\n')
+	print('		- ',data[key]['LoPr'],'\n\n')
 
 
-	print('     - Publications:')
-	print(data[key]['LoPub'],'\n\n')
+	print('	- Publications:\n')
+	print('		- ',data[key]['LoPub'],'\n\n')
 	
 	# print('``` \n')
 
