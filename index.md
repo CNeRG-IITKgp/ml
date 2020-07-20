@@ -3,11 +3,12 @@
 [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) <br>
 
 
+# Avirup Saha 
+
 ```sh 
 
-Avirup Saha 
-
-Supervisor:  Niloy Ganguly 
+Supervisor 
+ Niloy Ganguly 
 
 Projects
 Learning hashtag/e-commerce dynamics: Here we investigate hashtag/product popularity using temporal point processes
@@ -20,11 +21,12 @@ Santosh, T. Y. S. S., Srijan Bansal, and Avirup Saha. "Can Siamese Networks help
 Tokala, Santosh, G. Vishal, Avirup Saha, and Niloy Ganguly. "AttentiveChecker: A Bi-Directional Attention Flow Mechanism for Fact Verication." In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 2019.
 ``` 
 
+# Aakash Verma 
+
 ```sh 
 
-Aakash Verma 
-
-Supervisor:  Niloy Ganguly 
+Supervisor 
+ Niloy Ganguly 
 
 Projects
 Data-driven approach for optimizing ML inference time --> In this project, we are trying to build some hashing mechanism to skip some layers in the computational graph for some clustered data-points to reduce the inference time.
@@ -32,11 +34,12 @@ Publications
 None
 ``` 
 
+# Soumyadeep Roy 
+
 ```sh 
 
-Soumyadeep Roy 
-
-Supervisor:  Prof. Niloy Ganguly, Prof. Shamik Sural 
+Supervisor 
+ Prof. Niloy Ganguly, Prof. Shamik Sural 
 
 Projects
 1. Computational Approaches for Brand Positioning - A collaraboration with Adobe Big Data Experience Lab, Bangalore, India
@@ -49,11 +52,12 @@ Publications
 2. Soumyadeep Roy, Niloy Ganguly, Shamik Sural, Niyati Chhaya, and Anandhavelu Natarajan, Understanding Brand Consistency from Web Content, in Proceedings of the 10th ACM Conference on Web Science, WebSci 19, (Boston, MA, USA), pp. 245–253, ACM, 2019. (Conference full paper) Link : https://zenodo.org/record/3565079
 ``` 
 
+# Abhisek Dash 
+
 ```sh 
 
-Abhisek Dash 
-
-Supervisor:  Saptarshi Ghosh, Animesh Mukherjee 
+Supervisor 
+ Saptarshi Ghosh, Animesh Mukherjee 
 
 Projects
 A Network-centric framework for Auditing Recommendation System-- In this project we proposed a network centric framework and few methodologies for third party auditing of recommendation systems prevailing on different online movie recommendation systems.
@@ -67,11 +71,12 @@ A Network-centric Framework for Auditing Recommendation Systems-- IEEE INFOCOM 2
 Summarizing User-generated Textual Content: Motivation and Methods for Fairness in Algorithmic Summaries-- PACM HCI (CSCW) 2019
 ``` 
 
+# Bishal Santra 
+
 ```sh 
 
-Bishal Santra 
-
-Supervisor:  Pawan Goyal 
+Supervisor 
+ Pawan Goyal 
 
 Projects
 Dialogue Systems, Knowledge Graph Completion, Recommendation Systems
@@ -87,11 +92,12 @@ Amrith Krishna, Bishal Santra, Sasi Prasanth Bandaru, Sahu, Gaurav, Sharma, Vish
 Amrith Krishna, Bishal Santra, Pavan Kumar Satuluri, Sasi Prasanth Bandaru, Bhumi Faldu, Yajuvendra Singh and Pawan Goyal (2016). Word Segmentation in Sanskrit Using Path Constrained Random Walk. 26th International Conference on Computational Linguistics (Coling), Osaka, Japan, December 11-16, 2016 (Poster). https://github.com/bsantraigi/Sanskrit-Segmentation
 ``` 
 
+# Abhilash Nandy 
+
 ```sh 
 
-Abhilash Nandy 
-
-Supervisor:  Prof. Niloy Ganguly 
+Supervisor 
+ Prof. Niloy Ganguly 
 
 Projects
 - Question Answering on E-Manuals (in collaboration with Samsung)
@@ -104,11 +110,12 @@ Understanding Community Rivalry on Social Media: A Case Study of Two Footballing
 Low-cost Brain Controlled Orthotic Exoskeleton Arm for Monoplegic Paralyzed Individuals
 ``` 
 
+# Punyajoy Saha 
+
 ```sh 
 
-Punyajoy Saha 
-
-Supervisor:  Animesh Mukherjee 
+Supervisor 
+ Animesh Mukherjee 
 
 Projects
 -> Fear speech detection and analysis, In this project we try to build a dataset for fear speech (fear against a target community) and model to detect and analyse them 
@@ -121,11 +128,12 @@ Publications
 -->Thou shalt not hate: Countering Online Hate Speech (accepted at ICWSM 2019)  publication-- https://www.aaai.org/ojs/index.php/ICWSM/article/view/3237  dataset and code--https://github.com/binny-mathew/Countering_Hate_Speech_ICWSM2019 
 ``` 
 
+# Sayantan Adak 
+
 ```sh 
 
-Sayantan Adak 
-
-Supervisor:  Animesh Mukherjee 
+Supervisor 
+ Animesh Mukherjee 
 
 Projects
 Gandhipedia
@@ -135,11 +143,12 @@ JCDL2020 demo/poster:
 https://github.com/gandhipedia/
 ``` 
 
+# Souvic Chakraborty 
+
 ```sh 
 
-Souvic Chakraborty 
-
-Supervisor:  Animesh Mukherjee, Pawan Goyal 
+Supervisor 
+ Animesh Mukherjee, Pawan Goyal 
 
 Projects
 Aspect based Sentiment Analysis of Scientific Reviews
@@ -148,11 +157,12 @@ Publications
 Aspect based Sentiment Analysis of Scientific Reviews, JCDL 2020
 ``` 
 
+# SK Mainul Islam 
+
 ```sh 
 
-SK Mainul Islam 
-
-Supervisor:  Sourangshu Bhattacharya 
+Supervisor 
+ Sourangshu Bhattacharya 
 
 Projects
 Aspect Based Sentiment Analysis

@@ -12,10 +12,11 @@ print('[Department of Computer Science and Engineering](http://cse.iitkgp.ac.in/
 print('[Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) <br>\n\n')
 for key in data.keys():
 
-	print('```sh \n')
+	
 
-	print(key,'\n')
-	print( 'Supervisor: ', data[key]['Sup'],'\n')
+	print('#', key,'\n')
+	print('```sh \n')
+	print( 'Supervisor \n', data[key]['Sup'],'\n')
 
 	print('Projects')
 	print(data[key]['LoPr'])
