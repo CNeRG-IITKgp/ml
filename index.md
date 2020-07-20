@@ -95,7 +95,7 @@
 		-  Amrith Krishna, Vishnu Dutt Sharma, Bishal Santra, Pavan Kumar Satuluri and Pawan Goyal (2019). Poetry to Prose Conversion in Sanskrit as a Linearisation Task: A case for Low-Resource Languages. ACL, July 28th - August 3rd, Florence, Italy (short paper). https://www.aclweb.org/anthology/P19-1111/
 
  		
- 		- Abhinav Kuma, Aishwarya Gupta, Bishal Santra, Lalitha Srinivasan, Manasa Kolla, Mayank Gupta and Rishabh Singh, VPDS: An AI-based Automated Vehicle Occupancy and Violation Detection System, IAAI (application conference of AAAI), 2019 https://www.aaai.org/ojs/index.php/AAAI/article/view/5005
+ 		- Abhinav Kuma, Aishwarya Gupta, Bishal Santra, Lalitha Srinivasan, Manasa Kolla, Mayank Gupta and Rishabh Singh, VPDS: An AI-based Automated Vehicle Occupancy and Violation Detection System, IAAI (application conference of AAAI), 2019 https://www.aaai.org/ojs/index.php/AAAI/article/view/5005/
 		
 		- Amrith Krishna, Bishal Santra, Sasi Prasanth Bandaru, Sahu, Gaurav, Sharma, Vishnu Dutt, Satuluri, Pavan Kumar and Pawan Goyal (2018). Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit. EMNLP, Brussels, Belgium, October 31-November 4, 2018. https://github.com/bsantraigi/Sanskrit-Segmentation-Extended
 		
@@ -150,7 +150,7 @@
 	- Publications:
 
 		-  Deep Learning Models for Multilingual Hate Speech Detection (accepted in ECML PKDD 2020) publication-- https://arxiv.org/abs/2004.06465 code--https://github.com/punyajoy/DE-LIMIT
--->Thou shalt not hate: Countering Online Hate Speech (accepted at ICWSM 2019)  publication-- https://www.aaai.org/ojs/index.php/ICWSM/article/view/3237  dataset and code--https://github.com/binny-mathew/Countering_Hate_Speech_ICWSM2019  
+		- Thou shalt not hate: Countering Online Hate Speech (accepted at ICWSM 2019)  publication-- https://www.aaai.org/ojs/index.php/ICWSM/article/view/3237  dataset and code--https://github.com/binny-mathew/Countering_Hate_Speech_ICWSM2019  
 
 
 
