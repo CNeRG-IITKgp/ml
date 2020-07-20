@@ -22,27 +22,9 @@
 	- Publications:
 
 		-  Saha, Avirup, Bidisha Samanta, Niloy Ganguly, and Abir De. "CRPP: Competing Recurrent Point Process for Modeling Visibility Dynamics in Information Diffusion." In Proceedings of the 27th ACM International Conference on Information and Knowledge Management, pp. 537-546. ACM, 2018.
-Saha, Avirup, Niloy Ganguly, Sandip Chakraborty, and Abir De. "Learning Network Traffic Dynamics Using Temporal Point Process." In IEEE INFOCOM 2019-IEEE Conference on Computer Communications, pp. 1927-1935. IEEE, 2019.
-Santosh, T. Y. S. S., Srijan Bansal, and Avirup Saha. "Can Siamese Networks help in stance detection?." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2019.
-Tokala, Santosh, G. Vishal, Avirup Saha, and Niloy Ganguly. "AttentiveChecker: A Bi-Directional Attention Flow Mechanism for Fact Verication." In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 2019. 
-
-
-		-  Saha, Avirup, Bidisha Samanta, Niloy Ganguly, and Abir De. "CRPP: Competing Recurrent Point Process for Modeling Visibility Dynamics in Information Diffusion." In Proceedings of the 27th ACM International Conference on Information and Knowledge Management, pp. 537-546. ACM, 2018.
-Saha, Avirup, Niloy Ganguly, Sandip Chakraborty, and Abir De. "Learning Network Traffic Dynamics Using Temporal Point Process." In IEEE INFOCOM 2019-IEEE Conference on Computer Communications, pp. 1927-1935. IEEE, 2019.
-Santosh, T. Y. S. S., Srijan Bansal, and Avirup Saha. "Can Siamese Networks help in stance detection?." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2019.
-Tokala, Santosh, G. Vishal, Avirup Saha, and Niloy Ganguly. "AttentiveChecker: A Bi-Directional Attention Flow Mechanism for Fact Verication." In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 2019. 
-
-
-		-  Saha, Avirup, Bidisha Samanta, Niloy Ganguly, and Abir De. "CRPP: Competing Recurrent Point Process for Modeling Visibility Dynamics in Information Diffusion." In Proceedings of the 27th ACM International Conference on Information and Knowledge Management, pp. 537-546. ACM, 2018.
-Saha, Avirup, Niloy Ganguly, Sandip Chakraborty, and Abir De. "Learning Network Traffic Dynamics Using Temporal Point Process." In IEEE INFOCOM 2019-IEEE Conference on Computer Communications, pp. 1927-1935. IEEE, 2019.
-Santosh, T. Y. S. S., Srijan Bansal, and Avirup Saha. "Can Siamese Networks help in stance detection?." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2019.
-Tokala, Santosh, G. Vishal, Avirup Saha, and Niloy Ganguly. "AttentiveChecker: A Bi-Directional Attention Flow Mechanism for Fact Verication." In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 2019. 
-
-
-		-  Saha, Avirup, Bidisha Samanta, Niloy Ganguly, and Abir De. "CRPP: Competing Recurrent Point Process for Modeling Visibility Dynamics in Information Diffusion." In Proceedings of the 27th ACM International Conference on Information and Knowledge Management, pp. 537-546. ACM, 2018.
-Saha, Avirup, Niloy Ganguly, Sandip Chakraborty, and Abir De. "Learning Network Traffic Dynamics Using Temporal Point Process." In IEEE INFOCOM 2019-IEEE Conference on Computer Communications, pp. 1927-1935. IEEE, 2019.
-Santosh, T. Y. S. S., Srijan Bansal, and Avirup Saha. "Can Siamese Networks help in stance detection?." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2019.
-Tokala, Santosh, G. Vishal, Avirup Saha, and Niloy Ganguly. "AttentiveChecker: A Bi-Directional Attention Flow Mechanism for Fact Verication." In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 2019. 
+		-  Saha, Avirup, Niloy Ganguly, Sandip Chakraborty, and Abir De. "Learning Network Traffic Dynamics Using Temporal Point Process." In IEEE INFOCOM 2019-IEEE Conference on Computer Communications, pp. 1927-1935. IEEE, 2019.
+		- Santosh, T. Y. S. S., Srijan Bansal, and Avirup Saha. "Can Siamese Networks help in stance detection?." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2019.
+		- Tokala, Santosh, G. Vishal, Avirup Saha, and Niloy Ganguly. "AttentiveChecker: A Bi-Directional Attention Flow Mechanism for Fact Verication." In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 2019. 
 
 
 - ###  Aakash Verma 
@@ -51,7 +33,7 @@ Tokala, Santosh, G. Vishal, Avirup Saha, and Niloy Ganguly. "AttentiveChecker: A
 
 	- Projects:
 
-		-  Data-driven approach for optimizing ML inference time --> In this project, we are trying to build some hashing mechanism to skip some layers in the computational graph for some clustered data-points to reduce the inference time. 
+		-  Data-driven approach for optimizing ML inference time- : In this project, we are trying to build some hashing mechanism to skip some layers in the computational graph for some clustered data-points to reduce the inference time. 
 
 
 	- Publications:
@@ -65,30 +47,16 @@ Tokala, Santosh, G. Vishal, Avirup Saha, and Niloy Ganguly. "AttentiveChecker: A
 
 	- Projects:
 
-		-  1. Computational Approaches for Brand Positioning - A collaraboration with Adobe Big Data Experience Lab, Bangalore, India 
+		-  Computational Approaches for Brand Positioning - A collaraboration with Adobe Big Data Experience Lab, Bangalore, India 
 
-
-		-   
-
-
-		-  2. Development of a remote healthcare delivery system: Early diagnosis, therapy, follow-up and preventive care for non-communicable diseases (cardio-pulmonary) - IMPRINT-1 Project (Code: RCO) 
+		-  Development of a remote healthcare delivery system: Early diagnosis, therapy, follow-up and preventive care for non-communicable diseases (cardio-pulmonary) - IMPRINT-1 Project (Code: RCO) 
 
 
 	- Publications:
 
-		-  1. Soumyadeep Roy, Koustav Rudra, Nikhil Agrawal, Shamik Sural, Niloy Ganguly, Towards an Aspect-based Ranking Model for Clinical Trial Search, in the 8th International Conference on Computational Data and Social Networks (CSoNet 2019), Novemer 18 – 20, 2019, Ho Chi Minh City, Vietnam (Conference Full paper) Link : https://github.com/nikhil741/COCTR_multidimensional_ranking/
+		-  Soumyadeep Roy, Koustav Rudra, Nikhil Agrawal, Shamik Sural, Niloy Ganguly, Towards an Aspect-based Ranking Model for Clinical Trial Search, in the 8th International Conference on Computational Data and Social Networks (CSoNet 2019), Novemer 18 – 20, 2019, Ho Chi Minh City, Vietnam (Conference Full paper) Link : https://github.com/nikhil741/COCTR_multidimensional_ranking/
 
-2. Soumyadeep Roy, Niloy Ganguly, Shamik Sural, Niyati Chhaya, and Anandhavelu Natarajan, Understanding Brand Consistency from Web Content, in Proceedings of the 10th ACM Conference on Web Science, WebSci 19, (Boston, MA, USA), pp. 245–253, ACM, 2019. (Conference full paper) Link : https://zenodo.org/record/3565079 
-
-
-		-  1. Soumyadeep Roy, Koustav Rudra, Nikhil Agrawal, Shamik Sural, Niloy Ganguly, Towards an Aspect-based Ranking Model for Clinical Trial Search, in the 8th International Conference on Computational Data and Social Networks (CSoNet 2019), Novemer 18 – 20, 2019, Ho Chi Minh City, Vietnam (Conference Full paper) Link : https://github.com/nikhil741/COCTR_multidimensional_ranking/
-
-2. Soumyadeep Roy, Niloy Ganguly, Shamik Sural, Niyati Chhaya, and Anandhavelu Natarajan, Understanding Brand Consistency from Web Content, in Proceedings of the 10th ACM Conference on Web Science, WebSci 19, (Boston, MA, USA), pp. 245–253, ACM, 2019. (Conference full paper) Link : https://zenodo.org/record/3565079 
-
-
-		-  1. Soumyadeep Roy, Koustav Rudra, Nikhil Agrawal, Shamik Sural, Niloy Ganguly, Towards an Aspect-based Ranking Model for Clinical Trial Search, in the 8th International Conference on Computational Data and Social Networks (CSoNet 2019), Novemer 18 – 20, 2019, Ho Chi Minh City, Vietnam (Conference Full paper) Link : https://github.com/nikhil741/COCTR_multidimensional_ranking/
-
-2. Soumyadeep Roy, Niloy Ganguly, Shamik Sural, Niyati Chhaya, and Anandhavelu Natarajan, Understanding Brand Consistency from Web Content, in Proceedings of the 10th ACM Conference on Web Science, WebSci 19, (Boston, MA, USA), pp. 245–253, ACM, 2019. (Conference full paper) Link : https://zenodo.org/record/3565079 
+		-  Soumyadeep Roy, Niloy Ganguly, Shamik Sural, Niyati Chhaya, and Anandhavelu Natarajan, Understanding Brand Consistency from Web Content, in Proceedings of the 10th ACM Conference on Web Science, WebSci 19, (Boston, MA, USA), pp. 245–253, ACM, 2019. (Conference full paper) Link : https://zenodo.org/record/3565079 
 
 
 - ###  Abhisek Dash 
@@ -99,15 +67,7 @@ Tokala, Santosh, G. Vishal, Avirup Saha, and Niloy Ganguly. "AttentiveChecker: A
 
 		-  A Network-centric framework for Auditing Recommendation System-- In this project we proposed a network centric framework and few methodologies for third party auditing of recommendation systems prevailing on different online movie recommendation systems. 
 
-
-		-   
-
-
 		-  Fairness in text summarization-- In this project we proposed methodologies to generate demographically fair summaries of social media microblog posts (tweets) generated by real users during different events.  
-
-
-		-   
-
 
 		-  Auditing Amazon Marketplace-- Currently, we are working on a project where we are investigating different information filtering algorithms e.g., recommendation systems, search systems etc. on Amazon website and its repercussions on exposure of different sellers and producers on Amazon. 
 
@@ -116,17 +76,7 @@ Tokala, Santosh, G. Vishal, Avirup Saha, and Niloy Ganguly. "AttentiveChecker: A
 
 		-  A Network-centric Framework for Auditing Recommendation Systems-- IEEE INFOCOM 2019
 
-Summarizing User-generated Textual Content: Motivation and Methods for Fairness in Algorithmic Summaries-- PACM HCI (CSCW) 2019 
-
-
-		-  A Network-centric Framework for Auditing Recommendation Systems-- IEEE INFOCOM 2019
-
-Summarizing User-generated Textual Content: Motivation and Methods for Fairness in Algorithmic Summaries-- PACM HCI (CSCW) 2019 
-
-
-		-  A Network-centric Framework for Auditing Recommendation Systems-- IEEE INFOCOM 2019
-
-Summarizing User-generated Textual Content: Motivation and Methods for Fairness in Algorithmic Summaries-- PACM HCI (CSCW) 2019 
+		-  Summarizing User-generated Textual Content: Motivation and Methods for Fairness in Algorithmic Summaries-- PACM HCI (CSCW) 2019 
 
 
 - ###  Bishal Santra 
@@ -142,101 +92,14 @@ Summarizing User-generated Textual Content: Motivation and Methods for Fairness 
 
 		-  Soumya Sharma*, Bishal Santra*, Abhik Jana, T Y S S Santosh, Niloy Ganguly and Pawan Goyal. Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs. EMNLP-IJCNLP 2019, November 3-7, Hong Kong (short paper).  https://github.com/soummyaah/KGMedNLI/
 
-Amrith Krishna, Vishnu Dutt Sharma, Bishal Santra, Pavan Kumar Satuluri and Pawan Goyal (2019). Poetry to Prose Conversion in Sanskrit as a Linearisation Task: A case for Low-Resource Languages. ACL, July 28th - August 3rd, Florence, Italy (short paper). https://www.aclweb.org/anthology/P19-1111/
+		-  Amrith Krishna, Vishnu Dutt Sharma, Bishal Santra, Pavan Kumar Satuluri and Pawan Goyal (2019). Poetry to Prose Conversion in Sanskrit as a Linearisation Task: A case for Low-Resource Languages. ACL, July 28th - August 3rd, Florence, Italy (short paper). https://www.aclweb.org/anthology/P19-1111/
 
-Abhinav Kumar*, Aishwarya Gupta*, Bishal Santra*, Lalitha Srinivasan*, Manasa Kolla*, Mayank Gupta* and Rishabh Singh*, VPDS: An AI-based Automated Vehicle Occupancy and Violation Detection System, IAAI (application conference of AAAI), 2019 https://www.aaai.org/ojs/index.php/AAAI/article/view/5005
-
-Amrith Krishna, Bishal Santra, Sasi Prasanth Bandaru, Sahu, Gaurav, Sharma, Vishnu Dutt, Satuluri, Pavan Kumar and Pawan Goyal (2018). Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit. EMNLP, Brussels, Belgium, October 31-November 4, 2018. https://github.com/bsantraigi/Sanskrit-Segmentation-Extended
-
-Amrith Krishna, Bishal Santra, Pavan Kumar Satuluri, Sasi Prasanth Bandaru, Bhumi Faldu, Yajuvendra Singh and Pawan Goyal (2016). Word Segmentation in Sanskrit Using Path Constrained Random Walk. 26th International Conference on Computational Linguistics (Coling), Osaka, Japan, December 11-16, 2016 (Poster). https://github.com/bsantraigi/Sanskrit-Segmentation 
-
-
-		-  Soumya Sharma*, Bishal Santra*, Abhik Jana, T Y S S Santosh, Niloy Ganguly and Pawan Goyal. Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs. EMNLP-IJCNLP 2019, November 3-7, Hong Kong (short paper).  https://github.com/soummyaah/KGMedNLI/
-
-Amrith Krishna, Vishnu Dutt Sharma, Bishal Santra, Pavan Kumar Satuluri and Pawan Goyal (2019). Poetry to Prose Conversion in Sanskrit as a Linearisation Task: A case for Low-Resource Languages. ACL, July 28th - August 3rd, Florence, Italy (short paper). https://www.aclweb.org/anthology/P19-1111/
-
-Abhinav Kumar*, Aishwarya Gupta*, Bishal Santra*, Lalitha Srinivasan*, Manasa Kolla*, Mayank Gupta* and Rishabh Singh*, VPDS: An AI-based Automated Vehicle Occupancy and Violation Detection System, IAAI (application conference of AAAI), 2019 https://www.aaai.org/ojs/index.php/AAAI/article/view/5005
-
-Amrith Krishna, Bishal Santra, Sasi Prasanth Bandaru, Sahu, Gaurav, Sharma, Vishnu Dutt, Satuluri, Pavan Kumar and Pawan Goyal (2018). Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit. EMNLP, Brussels, Belgium, October 31-November 4, 2018. https://github.com/bsantraigi/Sanskrit-Segmentation-Extended
-
-Amrith Krishna, Bishal Santra, Pavan Kumar Satuluri, Sasi Prasanth Bandaru, Bhumi Faldu, Yajuvendra Singh and Pawan Goyal (2016). Word Segmentation in Sanskrit Using Path Constrained Random Walk. 26th International Conference on Computational Linguistics (Coling), Osaka, Japan, December 11-16, 2016 (Poster). https://github.com/bsantraigi/Sanskrit-Segmentation 
-
-
-		-  Soumya Sharma*, Bishal Santra*, Abhik Jana, T Y S S Santosh, Niloy Ganguly and Pawan Goyal. Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs. EMNLP-IJCNLP 2019, November 3-7, Hong Kong (short paper).  https://github.com/soummyaah/KGMedNLI/
-
-Amrith Krishna, Vishnu Dutt Sharma, Bishal Santra, Pavan Kumar Satuluri and Pawan Goyal (2019). Poetry to Prose Conversion in Sanskrit as a Linearisation Task: A case for Low-Resource Languages. ACL, July 28th - August 3rd, Florence, Italy (short paper). https://www.aclweb.org/anthology/P19-1111/
-
-Abhinav Kumar*, Aishwarya Gupta*, Bishal Santra*, Lalitha Srinivasan*, Manasa Kolla*, Mayank Gupta* and Rishabh Singh*, VPDS: An AI-based Automated Vehicle Occupancy and Violation Detection System, IAAI (application conference of AAAI), 2019 https://www.aaai.org/ojs/index.php/AAAI/article/view/5005
-
-Amrith Krishna, Bishal Santra, Sasi Prasanth Bandaru, Sahu, Gaurav, Sharma, Vishnu Dutt, Satuluri, Pavan Kumar and Pawan Goyal (2018). Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit. EMNLP, Brussels, Belgium, October 31-November 4, 2018. https://github.com/bsantraigi/Sanskrit-Segmentation-Extended
-
-Amrith Krishna, Bishal Santra, Pavan Kumar Satuluri, Sasi Prasanth Bandaru, Bhumi Faldu, Yajuvendra Singh and Pawan Goyal (2016). Word Segmentation in Sanskrit Using Path Constrained Random Walk. 26th International Conference on Computational Linguistics (Coling), Osaka, Japan, December 11-16, 2016 (Poster). https://github.com/bsantraigi/Sanskrit-Segmentation 
-
-
-		-  Soumya Sharma*, Bishal Santra*, Abhik Jana, T Y S S Santosh, Niloy Ganguly and Pawan Goyal. Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs. EMNLP-IJCNLP 2019, November 3-7, Hong Kong (short paper).  https://github.com/soummyaah/KGMedNLI/
-
-Amrith Krishna, Vishnu Dutt Sharma, Bishal Santra, Pavan Kumar Satuluri and Pawan Goyal (2019). Poetry to Prose Conversion in Sanskrit as a Linearisation Task: A case for Low-Resource Languages. ACL, July 28th - August 3rd, Florence, Italy (short paper). https://www.aclweb.org/anthology/P19-1111/
-
-Abhinav Kumar*, Aishwarya Gupta*, Bishal Santra*, Lalitha Srinivasan*, Manasa Kolla*, Mayank Gupta* and Rishabh Singh*, VPDS: An AI-based Automated Vehicle Occupancy and Violation Detection System, IAAI (application conference of AAAI), 2019 https://www.aaai.org/ojs/index.php/AAAI/article/view/5005
-
-Amrith Krishna, Bishal Santra, Sasi Prasanth Bandaru, Sahu, Gaurav, Sharma, Vishnu Dutt, Satuluri, Pavan Kumar and Pawan Goyal (2018). Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit. EMNLP, Brussels, Belgium, October 31-November 4, 2018. https://github.com/bsantraigi/Sanskrit-Segmentation-Extended
-
-Amrith Krishna, Bishal Santra, Pavan Kumar Satuluri, Sasi Prasanth Bandaru, Bhumi Faldu, Yajuvendra Singh and Pawan Goyal (2016). Word Segmentation in Sanskrit Using Path Constrained Random Walk. 26th International Conference on Computational Linguistics (Coling), Osaka, Japan, December 11-16, 2016 (Poster). https://github.com/bsantraigi/Sanskrit-Segmentation 
-
-
-		-  Soumya Sharma*, Bishal Santra*, Abhik Jana, T Y S S Santosh, Niloy Ganguly and Pawan Goyal. Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs. EMNLP-IJCNLP 2019, November 3-7, Hong Kong (short paper).  https://github.com/soummyaah/KGMedNLI/
-
-Amrith Krishna, Vishnu Dutt Sharma, Bishal Santra, Pavan Kumar Satuluri and Pawan Goyal (2019). Poetry to Prose Conversion in Sanskrit as a Linearisation Task: A case for Low-Resource Languages. ACL, July 28th - August 3rd, Florence, Italy (short paper). https://www.aclweb.org/anthology/P19-1111/
-
-Abhinav Kumar*, Aishwarya Gupta*, Bishal Santra*, Lalitha Srinivasan*, Manasa Kolla*, Mayank Gupta* and Rishabh Singh*, VPDS: An AI-based Automated Vehicle Occupancy and Violation Detection System, IAAI (application conference of AAAI), 2019 https://www.aaai.org/ojs/index.php/AAAI/article/view/5005
-
-Amrith Krishna, Bishal Santra, Sasi Prasanth Bandaru, Sahu, Gaurav, Sharma, Vishnu Dutt, Satuluri, Pavan Kumar and Pawan Goyal (2018). Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit. EMNLP, Brussels, Belgium, October 31-November 4, 2018. https://github.com/bsantraigi/Sanskrit-Segmentation-Extended
-
-Amrith Krishna, Bishal Santra, Pavan Kumar Satuluri, Sasi Prasanth Bandaru, Bhumi Faldu, Yajuvendra Singh and Pawan Goyal (2016). Word Segmentation in Sanskrit Using Path Constrained Random Walk. 26th International Conference on Computational Linguistics (Coling), Osaka, Japan, December 11-16, 2016 (Poster). https://github.com/bsantraigi/Sanskrit-Segmentation 
-
-
-		-  Soumya Sharma*, Bishal Santra*, Abhik Jana, T Y S S Santosh, Niloy Ganguly and Pawan Goyal. Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs. EMNLP-IJCNLP 2019, November 3-7, Hong Kong (short paper).  https://github.com/soummyaah/KGMedNLI/
-
-Amrith Krishna, Vishnu Dutt Sharma, Bishal Santra, Pavan Kumar Satuluri and Pawan Goyal (2019). Poetry to Prose Conversion in Sanskrit as a Linearisation Task: A case for Low-Resource Languages. ACL, July 28th - August 3rd, Florence, Italy (short paper). https://www.aclweb.org/anthology/P19-1111/
-
-Abhinav Kumar*, Aishwarya Gupta*, Bishal Santra*, Lalitha Srinivasan*, Manasa Kolla*, Mayank Gupta* and Rishabh Singh*, VPDS: An AI-based Automated Vehicle Occupancy and Violation Detection System, IAAI (application conference of AAAI), 2019 https://www.aaai.org/ojs/index.php/AAAI/article/view/5005
-
-Amrith Krishna, Bishal Santra, Sasi Prasanth Bandaru, Sahu, Gaurav, Sharma, Vishnu Dutt, Satuluri, Pavan Kumar and Pawan Goyal (2018). Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit. EMNLP, Brussels, Belgium, October 31-November 4, 2018. https://github.com/bsantraigi/Sanskrit-Segmentation-Extended
-
-Amrith Krishna, Bishal Santra, Pavan Kumar Satuluri, Sasi Prasanth Bandaru, Bhumi Faldu, Yajuvendra Singh and Pawan Goyal (2016). Word Segmentation in Sanskrit Using Path Constrained Random Walk. 26th International Conference on Computational Linguistics (Coling), Osaka, Japan, December 11-16, 2016 (Poster). https://github.com/bsantraigi/Sanskrit-Segmentation 
-
-
-		-  Soumya Sharma*, Bishal Santra*, Abhik Jana, T Y S S Santosh, Niloy Ganguly and Pawan Goyal. Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs. EMNLP-IJCNLP 2019, November 3-7, Hong Kong (short paper).  https://github.com/soummyaah/KGMedNLI/
-
-Amrith Krishna, Vishnu Dutt Sharma, Bishal Santra, Pavan Kumar Satuluri and Pawan Goyal (2019). Poetry to Prose Conversion in Sanskrit as a Linearisation Task: A case for Low-Resource Languages. ACL, July 28th - August 3rd, Florence, Italy (short paper). https://www.aclweb.org/anthology/P19-1111/
-
-Abhinav Kumar*, Aishwarya Gupta*, Bishal Santra*, Lalitha Srinivasan*, Manasa Kolla*, Mayank Gupta* and Rishabh Singh*, VPDS: An AI-based Automated Vehicle Occupancy and Violation Detection System, IAAI (application conference of AAAI), 2019 https://www.aaai.org/ojs/index.php/AAAI/article/view/5005
-
-Amrith Krishna, Bishal Santra, Sasi Prasanth Bandaru, Sahu, Gaurav, Sharma, Vishnu Dutt, Satuluri, Pavan Kumar and Pawan Goyal (2018). Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit. EMNLP, Brussels, Belgium, October 31-November 4, 2018. https://github.com/bsantraigi/Sanskrit-Segmentation-Extended
-
-Amrith Krishna, Bishal Santra, Pavan Kumar Satuluri, Sasi Prasanth Bandaru, Bhumi Faldu, Yajuvendra Singh and Pawan Goyal (2016). Word Segmentation in Sanskrit Using Path Constrained Random Walk. 26th International Conference on Computational Linguistics (Coling), Osaka, Japan, December 11-16, 2016 (Poster). https://github.com/bsantraigi/Sanskrit-Segmentation 
-
-
-		-  Soumya Sharma*, Bishal Santra*, Abhik Jana, T Y S S Santosh, Niloy Ganguly and Pawan Goyal. Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs. EMNLP-IJCNLP 2019, November 3-7, Hong Kong (short paper).  https://github.com/soummyaah/KGMedNLI/
-
-Amrith Krishna, Vishnu Dutt Sharma, Bishal Santra, Pavan Kumar Satuluri and Pawan Goyal (2019). Poetry to Prose Conversion in Sanskrit as a Linearisation Task: A case for Low-Resource Languages. ACL, July 28th - August 3rd, Florence, Italy (short paper). https://www.aclweb.org/anthology/P19-1111/
-
-Abhinav Kumar*, Aishwarya Gupta*, Bishal Santra*, Lalitha Srinivasan*, Manasa Kolla*, Mayank Gupta* and Rishabh Singh*, VPDS: An AI-based Automated Vehicle Occupancy and Violation Detection System, IAAI (application conference of AAAI), 2019 https://www.aaai.org/ojs/index.php/AAAI/article/view/5005
-
-Amrith Krishna, Bishal Santra, Sasi Prasanth Bandaru, Sahu, Gaurav, Sharma, Vishnu Dutt, Satuluri, Pavan Kumar and Pawan Goyal (2018). Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit. EMNLP, Brussels, Belgium, October 31-November 4, 2018. https://github.com/bsantraigi/Sanskrit-Segmentation-Extended
-
-Amrith Krishna, Bishal Santra, Pavan Kumar Satuluri, Sasi Prasanth Bandaru, Bhumi Faldu, Yajuvendra Singh and Pawan Goyal (2016). Word Segmentation in Sanskrit Using Path Constrained Random Walk. 26th International Conference on Computational Linguistics (Coling), Osaka, Japan, December 11-16, 2016 (Poster). https://github.com/bsantraigi/Sanskrit-Segmentation 
-
-
-		-  Soumya Sharma*, Bishal Santra*, Abhik Jana, T Y S S Santosh, Niloy Ganguly and Pawan Goyal. Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs. EMNLP-IJCNLP 2019, November 3-7, Hong Kong (short paper).  https://github.com/soummyaah/KGMedNLI/
-
-Amrith Krishna, Vishnu Dutt Sharma, Bishal Santra, Pavan Kumar Satuluri and Pawan Goyal (2019). Poetry to Prose Conversion in Sanskrit as a Linearisation Task: A case for Low-Resource Languages. ACL, July 28th - August 3rd, Florence, Italy (short paper). https://www.aclweb.org/anthology/P19-1111/
-
-Abhinav Kumar*, Aishwarya Gupta*, Bishal Santra*, Lalitha Srinivasan*, Manasa Kolla*, Mayank Gupta* and Rishabh Singh*, VPDS: An AI-based Automated Vehicle Occupancy and Violation Detection System, IAAI (application conference of AAAI), 2019 https://www.aaai.org/ojs/index.php/AAAI/article/view/5005
-
-Amrith Krishna, Bishal Santra, Sasi Prasanth Bandaru, Sahu, Gaurav, Sharma, Vishnu Dutt, Satuluri, Pavan Kumar and Pawan Goyal (2018). Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit. EMNLP, Brussels, Belgium, October 31-November 4, 2018. https://github.com/bsantraigi/Sanskrit-Segmentation-Extended
-
-Amrith Krishna, Bishal Santra, Pavan Kumar Satuluri, Sasi Prasanth Bandaru, Bhumi Faldu, Yajuvendra Singh and Pawan Goyal (2016). Word Segmentation in Sanskrit Using Path Constrained Random Walk. 26th International Conference on Computational Linguistics (Coling), Osaka, Japan, December 11-16, 2016 (Poster). https://github.com/bsantraigi/Sanskrit-Segmentation 
+ 		
+ 		- Abhinav Kuma, Aishwarya Gupta, Bishal Santra, Lalitha Srinivasan, Manasa Kolla, Mayank Gupta and Rishabh Singh, VPDS: An AI-based Automated Vehicle Occupancy and Violation Detection System, IAAI (application conference of AAAI), 2019 https://www.aaai.org/ojs/index.php/AAAI/article/view/5005
+		
+		- Amrith Krishna, Bishal Santra, Sasi Prasanth Bandaru, Sahu, Gaurav, Sharma, Vishnu Dutt, Satuluri, Pavan Kumar and Pawan Goyal (2018). Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit. EMNLP, Brussels, Belgium, October 31-November 4, 2018. https://github.com/bsantraigi/Sanskrit-Segmentation-Extended
+		
+		- Amrith Krishna, Bishal Santra, Pavan Kumar Satuluri, Sasi Prasanth Bandaru, Bhumi Faldu, Yajuvendra Singh and Pawan Goyal (2016). Word Segmentation in Sanskrit Using Path Constrained Random Walk. 26th International Conference on Computational Linguistics (Coling), Osaka, Japan, December 11-16, 2016 (Poster). https://github.com/bsantraigi/Sanskrit-Segmentation 
 
 
 - ###  Abhilash Nandy 
@@ -251,51 +114,16 @@ Amrith Krishna, Bishal Santra, Pavan Kumar Satuluri, Sasi Prasanth Bandaru, Bhum
 	- Publications:
 
 		-  Identification of Cervical Pathology using Adversarial Neural Networks.
-An Adaptive Anaphylaxis Detection and Emergency Response System.
-Kinship Verification using Deep Siamese Convolutional Neural Network. Dataset - https://web.northeastern.edu/smilelab/fiw/
-A Densenet Based Robust Face Detection Framework. Dataset - https://www.tensorflow.org/datasets/catalog/wider_face
-Understanding Community Rivalry on Social Media: A Case Study of Two Footballing Giants.
-Low-cost Brain Controlled Orthotic Exoskeleton Arm for Monoplegic Paralyzed Individuals 
 
+		- An Adaptive Anaphylaxis Detection and Emergency Response System.
 
-		-  Identification of Cervical Pathology using Adversarial Neural Networks.
-An Adaptive Anaphylaxis Detection and Emergency Response System.
-Kinship Verification using Deep Siamese Convolutional Neural Network. Dataset - https://web.northeastern.edu/smilelab/fiw/
-A Densenet Based Robust Face Detection Framework. Dataset - https://www.tensorflow.org/datasets/catalog/wider_face
-Understanding Community Rivalry on Social Media: A Case Study of Two Footballing Giants.
-Low-cost Brain Controlled Orthotic Exoskeleton Arm for Monoplegic Paralyzed Individuals 
+		- Kinship Verification using Deep Siamese Convolutional Neural Network. Dataset - https://web.northeastern.edu/smilelab/fiw/
+		
+		- A Densenet Based Robust Face Detection Framework. Dataset - https://www.tensorflow.org/datasets/catalog/wider_face
+		
+		- Understanding Community Rivalry on Social Media: A Case Study of Two Footballing Giants.
 
-
-		-  Identification of Cervical Pathology using Adversarial Neural Networks.
-An Adaptive Anaphylaxis Detection and Emergency Response System.
-Kinship Verification using Deep Siamese Convolutional Neural Network. Dataset - https://web.northeastern.edu/smilelab/fiw/
-A Densenet Based Robust Face Detection Framework. Dataset - https://www.tensorflow.org/datasets/catalog/wider_face
-Understanding Community Rivalry on Social Media: A Case Study of Two Footballing Giants.
-Low-cost Brain Controlled Orthotic Exoskeleton Arm for Monoplegic Paralyzed Individuals 
-
-
-		-  Identification of Cervical Pathology using Adversarial Neural Networks.
-An Adaptive Anaphylaxis Detection and Emergency Response System.
-Kinship Verification using Deep Siamese Convolutional Neural Network. Dataset - https://web.northeastern.edu/smilelab/fiw/
-A Densenet Based Robust Face Detection Framework. Dataset - https://www.tensorflow.org/datasets/catalog/wider_face
-Understanding Community Rivalry on Social Media: A Case Study of Two Footballing Giants.
-Low-cost Brain Controlled Orthotic Exoskeleton Arm for Monoplegic Paralyzed Individuals 
-
-
-		-  Identification of Cervical Pathology using Adversarial Neural Networks.
-An Adaptive Anaphylaxis Detection and Emergency Response System.
-Kinship Verification using Deep Siamese Convolutional Neural Network. Dataset - https://web.northeastern.edu/smilelab/fiw/
-A Densenet Based Robust Face Detection Framework. Dataset - https://www.tensorflow.org/datasets/catalog/wider_face
-Understanding Community Rivalry on Social Media: A Case Study of Two Footballing Giants.
-Low-cost Brain Controlled Orthotic Exoskeleton Arm for Monoplegic Paralyzed Individuals 
-
-
-		-  Identification of Cervical Pathology using Adversarial Neural Networks.
-An Adaptive Anaphylaxis Detection and Emergency Response System.
-Kinship Verification using Deep Siamese Convolutional Neural Network. Dataset - https://web.northeastern.edu/smilelab/fiw/
-A Densenet Based Robust Face Detection Framework. Dataset - https://www.tensorflow.org/datasets/catalog/wider_face
-Understanding Community Rivalry on Social Media: A Case Study of Two Footballing Giants.
-Low-cost Brain Controlled Orthotic Exoskeleton Arm for Monoplegic Paralyzed Individuals 
+		- Low-cost Brain Controlled Orthotic Exoskeleton Arm for Monoplegic Paralyzed Individuals 
 
 
 - ###  Punyajoy Saha 
@@ -304,29 +132,26 @@ Low-cost Brain Controlled Orthotic Exoskeleton Arm for Monoplegic Paralyzed Indi
 
 	- Projects:
 
-		-  -> Fear speech detection and analysis, In this project we try to build a dataset for fear speech (fear against a target community) and model to detect and analyse them  
+		-  Fear speech detection and analysis, In this project we try to build a dataset for fear speech (fear against a target community) and model to detect and analyse them  
 
 
-		-  -> Hate speech explanation dataset, In this project we try to build a dataset and model for explaining hate speech detection.  
+		-  Hate speech explanation dataset, In this project we try to build a dataset and model for explaining hate speech detection.  
 
 
-		-  -> Temporal effects of Unmoderated Hate speech in Gab, In this project we try to analyse the temporal characteristics of hate in an unmoderated community 
+		-  Temporal effects of Unmoderated Hate speech in Gab, In this project we try to analyse the temporal characteristics of hate in an unmoderated community 
 
 
-		-  -> Deep Learning Models for Multilingual Hate Speech Detection,  In this project, we build a benchmark for hate speech detection in 9 languages across 16 datasets 
+		-  Deep Learning Models for Multilingual Hate Speech Detection,  In this project, we build a benchmark for hate speech detection in 9 languages across 16 datasets 
 
 
-		-  -> Thou shalt not hate: Countering Online Hate Speech, In this project, we tried to analyze counter speech on YouTube by curating a dataset and building several models 
+		-  Thou shalt not hate: Countering Online Hate Speech, In this project, we tried to analyze counter speech on YouTube by curating a dataset and building several models 
 
 
 	- Publications:
 
-		-  -->Deep Learning Models for Multilingual Hate Speech Detection (accepted in ECML PKDD 2020) publication-- https://arxiv.org/abs/2004.06465 code--https://github.com/punyajoy/DE-LIMIT
+		-  Deep Learning Models for Multilingual Hate Speech Detection (accepted in ECML PKDD 2020) publication-- https://arxiv.org/abs/2004.06465 code--https://github.com/punyajoy/DE-LIMIT
 -->Thou shalt not hate: Countering Online Hate Speech (accepted at ICWSM 2019)  publication-- https://www.aaai.org/ojs/index.php/ICWSM/article/view/3237  dataset and code--https://github.com/binny-mathew/Countering_Hate_Speech_ICWSM2019  
 
-
-		-  -->Deep Learning Models for Multilingual Hate Speech Detection (accepted in ECML PKDD 2020) publication-- https://arxiv.org/abs/2004.06465 code--https://github.com/punyajoy/DE-LIMIT
--->Thou shalt not hate: Countering Online Hate Speech (accepted at ICWSM 2019)  publication-- https://www.aaai.org/ojs/index.php/ICWSM/article/view/3237  dataset and code--https://github.com/binny-mathew/Countering_Hate_Speech_ICWSM2019  
 
 
 - ###  Sayantan Adak 
@@ -342,10 +167,6 @@ Low-cost Brain Controlled Orthotic Exoskeleton Arm for Monoplegic Paralyzed Indi
 
 
 	- Publications:
-
-		-  JCDL2020 demo/poster:
-https://github.com/gandhipedia/ 
-
 
 		-  JCDL2020 demo/poster:
 https://github.com/gandhipedia/ 
