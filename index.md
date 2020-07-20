@@ -18,7 +18,7 @@ Saha, Avirup, Bidisha Samanta, Niloy Ganguly, and Abir De. "CRPP: Competing Recu
 Saha, Avirup, Niloy Ganguly, Sandip Chakraborty, and Abir De. "Learning Network Traffic Dynamics Using Temporal Point Process." In IEEE INFOCOM 2019-IEEE Conference on Computer Communications, pp. 1927-1935. IEEE, 2019.
 Santosh, T. Y. S. S., Srijan Bansal, and Avirup Saha. "Can Siamese Networks help in stance detection?." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2019.
 Tokala, Santosh, G. Vishal, Avirup Saha, and Niloy Ganguly. "AttentiveChecker: A Bi-Directional Attention Flow Mechanism for Fact Verication." In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 2019.
-```sh 
+``` 
 
 ```sh 
 
@@ -30,7 +30,7 @@ Projects
 Data-driven approach for optimizing ML inference time --> In this project, we are trying to build some hashing mechanism to skip some layers in the computational graph for some clustered data-points to reduce the inference time.
 Publications
 None
-```sh 
+``` 
 
 ```sh 
 
@@ -47,7 +47,7 @@ Publications
 1. Soumyadeep Roy, Koustav Rudra, Nikhil Agrawal, Shamik Sural, Niloy Ganguly, Towards an Aspect-based Ranking Model for Clinical Trial Search, in the 8th International Conference on Computational Data and Social Networks (CSoNet 2019), Novemer 18 – 20, 2019, Ho Chi Minh City, Vietnam (Conference Full paper) Link : https://github.com/nikhil741/COCTR_multidimensional_ranking/
 
 2. Soumyadeep Roy, Niloy Ganguly, Shamik Sural, Niyati Chhaya, and Anandhavelu Natarajan, Understanding Brand Consistency from Web Content, in Proceedings of the 10th ACM Conference on Web Science, WebSci 19, (Boston, MA, USA), pp. 245–253, ACM, 2019. (Conference full paper) Link : https://zenodo.org/record/3565079
-```sh 
+``` 
 
 ```sh 
 
@@ -65,7 +65,7 @@ Publications
 A Network-centric Framework for Auditing Recommendation Systems-- IEEE INFOCOM 2019
 
 Summarizing User-generated Textual Content: Motivation and Methods for Fairness in Algorithmic Summaries-- PACM HCI (CSCW) 2019
-```sh 
+``` 
 
 ```sh 
 
@@ -85,7 +85,7 @@ Abhinav Kumar*, Aishwarya Gupta*, Bishal Santra*, Lalitha Srinivasan*, Manasa Ko
 Amrith Krishna, Bishal Santra, Sasi Prasanth Bandaru, Sahu, Gaurav, Sharma, Vishnu Dutt, Satuluri, Pavan Kumar and Pawan Goyal (2018). Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit. EMNLP, Brussels, Belgium, October 31-November 4, 2018. https://github.com/bsantraigi/Sanskrit-Segmentation-Extended
 
 Amrith Krishna, Bishal Santra, Pavan Kumar Satuluri, Sasi Prasanth Bandaru, Bhumi Faldu, Yajuvendra Singh and Pawan Goyal (2016). Word Segmentation in Sanskrit Using Path Constrained Random Walk. 26th International Conference on Computational Linguistics (Coling), Osaka, Japan, December 11-16, 2016 (Poster). https://github.com/bsantraigi/Sanskrit-Segmentation
-```sh 
+``` 
 
 ```sh 
 
@@ -102,7 +102,7 @@ Kinship Verification using Deep Siamese Convolutional Neural Network. Dataset - 
 A Densenet Based Robust Face Detection Framework. Dataset - https://www.tensorflow.org/datasets/catalog/wider_face
 Understanding Community Rivalry on Social Media: A Case Study of Two Footballing Giants.
 Low-cost Brain Controlled Orthotic Exoskeleton Arm for Monoplegic Paralyzed Individuals
-```sh 
+``` 
 
 ```sh 
 
@@ -119,7 +119,7 @@ Projects
 Publications
 -->Deep Learning Models for Multilingual Hate Speech Detection (accepted in ECML PKDD 2020) publication-- https://arxiv.org/abs/2004.06465 code--https://github.com/punyajoy/DE-LIMIT
 -->Thou shalt not hate: Countering Online Hate Speech (accepted at ICWSM 2019)  publication-- https://www.aaai.org/ojs/index.php/ICWSM/article/view/3237  dataset and code--https://github.com/binny-mathew/Countering_Hate_Speech_ICWSM2019 
-```sh 
+``` 
 
 ```sh 
 
@@ -133,7 +133,7 @@ A one-stop AI-Enabled Portal for Browsing Gandhian Literature, Life-events and H
 Publications
 JCDL2020 demo/poster:
 https://github.com/gandhipedia/
-```sh 
+``` 
 
 ```sh 
 
@@ -146,7 +146,7 @@ Aspect based Sentiment Analysis of Scientific Reviews
 We used publicly available dataset and with the help of annotations of aspect sentiments, we established the importance of each aspect like Clarity, the novelty of ideas on paper acceptance. We also studied the impact of disagreement between reviewers on Chair's decision, how aspect based disagreements have strong correlations with overall disagreements, and how each aspect sentiment influenced the degree of disagreement.
 Publications
 Aspect based Sentiment Analysis of Scientific Reviews, JCDL 2020
-```sh 
+``` 
 
 ```sh 
 
@@ -159,5 +159,5 @@ Aspect Based Sentiment Analysis
 In this work we are trying to improve the sentiment prediction of the sentence wrt aspect by incorporating knowledge graph embedding.
 Publications
 Under review at EMNLP 2020
-```sh 
+``` 
 

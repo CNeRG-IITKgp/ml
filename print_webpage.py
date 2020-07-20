@@ -13,6 +13,7 @@ print('[Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) <br>
 for key in data.keys():
 
 	print('```sh \n')
+
 	print(key,'\n')
 	print( 'Supervisor: ', data[key]['Sup'],'\n')
 
@@ -23,7 +24,7 @@ for key in data.keys():
 	print('Publications')
 	print(data[key]['LoPub'])
 	
-	print('```sh \n')
+	print('``` \n')
 
 
 
