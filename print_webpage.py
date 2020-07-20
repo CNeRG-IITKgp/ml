@@ -10,22 +10,24 @@ data = pickle.load( open( 'contact_info_dict.pkl' , 'rb' ) , encoding='iso-8859-
 print('# Machine Learning Research, CNeRG')
 print('[Department of Computer Science and Engineering](http://cse.iitkgp.ac.in/) <br>')
 print('[Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) <br>\n\n')
+
+print('# Students ')
 for key in data.keys():
 
 	
 
-	print('#', key,'\n')
-	print('```sh \n')
-	print( 'Supervisor \n', data[key]['Sup'],'\n')
+	print('- ### ', key,'\n')
+	# print('```s h\n')
+	print( '	- Supervisor:', data[key]['Sup'],'\n')
 
-	print('Projects')
-	print(data[key]['LoPr'])
+	print('		- Projects:')
+	print(data[key]['LoPr'],'\n\n')
 
 
-	print('Publications')
-	print(data[key]['LoPub'])
+	print('     - Publications:')
+	print(data[key]['LoPub'],'\n\n')
 	
-	print('``` \n')
+	# print('``` \n')
 
 
 
