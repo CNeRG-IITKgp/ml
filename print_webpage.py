@@ -21,11 +21,11 @@ for key in data.keys():
 	print( '	- Supervisor:', data[key]['Sup'],'\n')
 
 	print('	- Projects:\n')
-	print('		- ',data[key]['LoPr'],'\n\n')
-
-
+	for proj in data[key]['LoPr'].rstrip().split('\n'):
+		print('		- ',proj,'\n\n')
 	print('	- Publications:\n')
-	print('		- ',data[key]['LoPub'],'\n\n')
+	for pub in data[key]['LoPub'].rstrip().split('\n'):
+		print('		- ',data[key]['LoPub'],'\n\n')
 	
 	# print('``` \n')
 
