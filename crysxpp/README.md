@@ -1,9 +1,11 @@
 # CrysXPP: An Explainable Property Predictor for Crystalline Materials
+<div align='left'><strong>Accepted in NPJ Computational Materials (Nature) Journal,2022. (Impact Factor: 13.2)</strong></div>
+<div align='left'><strong>Kishalay Das, Bidisha Samanta, Pawan Goyal, Seung-Cheol Lee, Satadeep Bhattacharjee and Niloy Ganguly</strong></div>
 
-This is software package for Crsytal Explainable Property Predictor(CrysXPP) that takes as input
-any arbitary crystal structure in .cif file format and predict different state and elastic properties
-of the material.
-
+## Overview of the work -
+We present a deep-learning framework, CrysXPP, to allow rapid and accurate prediction of electronic, magnetic, and elastic properties of a wide range of materials. CrysXPP lowers the need for large property tagged datasets by intelligently designing an autoencoder, CrysAE. The important
+structural and chemical properties captured by CrysAE from the large amount of available crystal graphs data helped in achieving low prediction errors. Moreover, we design a feature selector that provides interpretability to the results obtained. Most notably, when given a small amount
+of experimental data, CrysXPP is consistently able to outperform conventional DFT. A detailed ablation study establishes the importance of different design steps. We release the large pre-trained model CrysAE. We believe by fine-tuning the model with a small amount of property-tagged data, researchers can achieve superior performance on various applications with a restricted data source.
 It has two modules :
 
 - Crystal Auto Encoder (CrysAE) : An auto-encoder based architecture which is trained with a large amount of unlabeled crystal data which leads to the deep encoding module capturing all the important structural and chemical information of the constituent atoms (nodes) of the crystal graph. 
@@ -16,24 +18,13 @@ It has two modules :
     ![CrysXPP diagram](images/CrysXPP.png)
     <div align='center'><strong>Figure 2. CrysXPP Architecure.</strong></div>
 
-The following paper describes the details of the CrysXPP framework:
+The following paper describes the details of the CrysXPP framework: [CrysXPP: An Explainable Property Predictor for Crystalline Materials](https://arxiv.org/pdf/2104.10869.pdf)
 
-[CrysXPP: An Explainable Property Predictor for Crystalline Materials](https://arxiv.org/pdf/2104.10869.pdf)
+[<a href="https://github.com/kdmsit/crysxpp.git" target="_blank">Code</a>]
+[<a target="_blank" href="https://kdmsit.github.io/assets/pdf/CRYSXPP.pdf">Slides</a>]
+[<a href="https://www.youtube.com/watch?v=Kyrpj9cSkkM" target="_blank" >Video</a>]
 
-## Table of Contents
-
-- [How to cite](#how-to-cite)
-- [Requirements](#requirements)
-- [Usage](#usage)
-  - [Define a customized dataset](#define-a-customized-dataset)
-  - [Train a CrysAE model](#train-a-crysae-model)
-  - [Train a CrysXPP model](#train-a-crysxpp-model)
-- [Data](#data)
-- [Authors](#authors)
-- [License](#license)
-
-
-## How to cite
+## Cite as -
 
 If youare using CrysXPP, please cite our work as follow :
 
@@ -49,92 +40,3 @@ If youare using CrysXPP, please cite our work as follow :
 ```
 
 
-##  Requirements
-
-The package requirements are listed in requirements.txt file. Run the following command to install dependencies in your virtual environment:
-
-pip install -r requirements.txt
-
-## Usage
-
-### Define a customized dataset 
-(Customiation is adopted From CGCNN Paper)
-
-To input crystal structures to CrysAE and CrysXPP, you will need to define a customized dataset. Note that this is required for both training and predicting. 
-
-Before defining a customized dataset, you will need:
-
-- [CIF](https://en.wikipedia.org/wiki/Crystallographic_Information_File) files recording the structure of the crystals that you are interested in
-- The target properties for each crystal (not needed for predicting, but you need to put some random numbers in `id_prop.csv`)
-
-You can create a customized dataset by creating a directory `root_dir` with the following files: 
-
-1. `id_prop.csv`: a [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) file with two columns. The first column recodes a unique `ID` for each crystal, and the second column recodes the value of target property. 
-2. `atom_init.json`: a [JSON](https://en.wikipedia.org/wiki/JSON) file that stores the initialization vector for each element. An example of `atom_init.json` is `data/sample-regression/atom_init.json`, which should be good for most applications.
-
-3. `ID.cif`: a [CIF](https://en.wikipedia.org/wiki/Crystallographic_Information_File) file that recodes the crystal structure, where `ID` is the unique `ID` for the crystal.
-
-The structure of the `root_dir` should be:
-
-```
-root_dir
-├── id_prop.csv
-├── atom_init.json
-├── id0.cif
-├── id1.cif
-├── ...
-```
-
-There is a examples of customized dataset in the repository: `../data/`, with 37K cif files, where in id_prop file we have formation energy values.
-
-### Train a CrysAE model
-
-We have already trained the autoencoder with 37K data and a pretrained model (model_pretrain.pth) will be provided into the '../model' directory.
-
-Yet, if You want to train the autoenoder module from scratch by some other dataset, use the following procedure :
-- [Define a customized dataset](#define-a-customized-dataset) at `root_dir` to store the structure-property relations of interest.
-- Run the following command
-
-```bash
-python main.py --data-path '../data/' --is-global-loss <1/0> --is-local-loss <1/0>  --save-path <path_to_save_pretrained_model>
-```
-Once the training is done the saved model will be saved at save-path.
-
-### Train a CrysXPP model
-Before training a new CrysXPP model, you will need to:
-
-- [Define a customized dataset](#define-a-customized-dataset) at `root_dir` to store the structure-property relations of interest.
-
-You can train the property predictor module by the following command :
-
-```bash
-python prop.py --pretrained-model=<Pretrain_CrysAE_path> --batch-size=512 --epoch=200 --test-ratio=0.8
-```
-As "pretrained-model" you can either use the existing pretarined CrysAE model "model/model_pretrain.pth" or you can pretrain your own  [CrysAE model](#train-a-crysae-model) and use the saved model.
-
-Here you can set set the following hyperparameters :
-
-- lrate : Learning Rate (Default : 0.003).
-- atom-feat : Atom Feature Dimension (Default : 64).
-- nconv : Number of Convolution Layers (Default : 3).
-- epoch : Number of Training Epochs (Default : 200)
-- batch-size : Batch size of data (Default : 512).
-
-
-After training, you will get following files :
-
-- ``../model/model_pp.pth`` : Saved model for that particular property.
--  ``../results/Prediction/<DATE>/<DATETIME>/out.txt`` : All the traing results for all epochs and all the hyperparameters are saved here.
-
-## Data
-
-We have used the dataset provided by [CGCNN](https://github.com/txie-93/cgcnn). Please use the dataset to reproduce the results. CIF files are given in the "data/" directory and in id_prop file we have formation energy values.
-
-## Authors
-
-This software was primarily written by [Kishalay Das](https://kdmsit.github.io/) & [Bidisha Samanta](https://sites.google.com/view/bidisha-samanta/) 
-and was advised by [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/), , [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/), Dr. Satadeep Bhattacharjee and Dr. Seung-Cheol Lee. 
-
-## License
-
-CrysXPP is released under the MIT License.
