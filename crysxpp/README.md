@@ -28,11 +28,11 @@ The following paper describes the details of the CrysXPP framework: [CrysXPP: An
 
 ## Talk
 
-- [Apr, 2022],Prof Ganguly Presented our work on Crystal Graphs at Department of Material Science, IIT-Kharagpur .
-- [Feb, 2022],Prof Ganguly Presented our work on Crystal Graphs at GCLR workshop, AAAI-2022 .
-- [Jan, 2022],Prof Ganguly Presented our work on Crystal Graphs at IISER Bhopal.
-- [Jan, 2022],Prof Ganguly Presented our work on Crystal Graphs at Leibniz University, Future Lab Seminar.
-- [Nov, 2021],Prof Ganguly Presented our work on Crystal Graphs at Amazon Research Day, Amazon, Bengaluru.
+- [Apr, 2022], Prof Ganguly Presented our work on Crystal Graphs at Department of Material Science, IIT-Kharagpur .
+- [Feb, 2022], Prof Ganguly Presented our work on Crystal Graphs at GCLR workshop, AAAI-2022 .
+- [Jan, 2022], Prof Ganguly Presented our work on Crystal Graphs at IISER Bhopal.
+- [Jan, 2022], Prof Ganguly Presented our work on Crystal Graphs at Leibniz University, Future Lab Seminar.
+- [Nov, 2021], Prof Ganguly Presented our work on Crystal Graphs at Amazon Research Day, Amazon, Bengaluru.
 
 ## Cite as -
 
